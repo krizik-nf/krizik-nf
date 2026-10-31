@@ -1,16 +1,29 @@
-## Hi there 👋
+<table>
+<tr>
+<td width="55%" valign="middle" align="center">
 
-<!--
-**krizik-nf/krizik-nf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=krizik-nf&layout=donut-vertical&hide_title=true&langs_count=4&theme=material-palenight" width="450">
 
-Here are some ideas to get you started:
+</td>
+<td width="45%" valign="middle">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h1>hi, i'm nikol!</h1>
+
+`4C`
+
+`meow`
+
+`meow`
+
+`meow`
+
+`meow`
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=krizik-nf&color=584584&style=for-the-badge&label=skibidi">
+</p>
+
+</td>
+</tr>
+</table>
